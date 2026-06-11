@@ -35,7 +35,7 @@ git diff --staged
 
 El comando `git stash` sirve para guardar temporalmente los cambios que
 todavia no commiteaste, sin perderlos. Es util cuando necesitas cambiar
-de rama rapido pero no queres hacer un commit todavia..
+de rama rapido pero no queres hacer un commit todavia.
 
 Para guardar los cambios:
 
