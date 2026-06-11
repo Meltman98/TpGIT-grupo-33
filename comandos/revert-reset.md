@@ -37,4 +37,4 @@ git reset --hard hash-del-commit
 
 La diferencia principal es que revert es seguro para usar en ramas
 compartidas porque no reescribe el historial, solo agrega un commit nuevo.
-Reset en cambio modifica el historial.
+Reset en cambio modifica el historial.esto es un error
