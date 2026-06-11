@@ -33,4 +33,6 @@ git rebase nombre-de-la-rama
 
 La diferencia principal es el historial que dejan. El merge conserva el
 historial exacto de como pasaron las cosas, con el commit de union incluido.
-El rebase deja un historial mas limpio y lineal, pero reescribe los commits.
+El rebase deja un historial mas limpio y lineal, pero reescribe los commits..
+
+
