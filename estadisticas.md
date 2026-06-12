@@ -34,4 +34,4 @@ Resultado: 3 archivos modificados, 147 inserciones
 ## Hash de Commit de conflicto
 
 Hash del commit: e1a1272
-![Captura del commit de conflicto](https://i.imgur.com/9n7sXoV.png)
+![Captura del commit de conflicto](capturaConflict.jpeg)
