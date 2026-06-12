@@ -5,6 +5,11 @@
 Este repositorio contiene explicaciones de los comandos de Git vistos
 durante la cursada de Metodologia de Sistemas I.
 
+## Integrantes
+
+- Joaquin Robles
+- Juan Manuel Garcia Amado
+
 ## Archivos
 
 - [git init, clone y status](comandos/init-clone-status.md)
