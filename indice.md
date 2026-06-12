@@ -2,7 +2,8 @@
 
 ## Introduccion
 
-Este repositorio contiene el material de Git para Metodologia de Sistemas I.
+Este repositorio tiene las explicaciones de los comandos de Git de la cursada.
+durante la cursada de Metodologia de Sistemas I.
 
 ## Integrantes
 
