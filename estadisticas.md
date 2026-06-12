@@ -35,3 +35,7 @@ Resultado: 3 archivos modificados, 147 inserciones
 
 Hash del commit: e1a1272
 ![Captura del commit de conflicto](capturaConflict.jpeg)
+
+## Diff correspondiente a los cambios
+
+![Captura del diff del commit de conflicto](diff.jpeg)
