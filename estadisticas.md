@@ -5,7 +5,7 @@
 Comando: git shortlog -sn --no-merges
 
 Resultado: Joaquin Robles con 19 commits
--Garcia Amado con 6 commits
+-Garcia Amado con 8 commits
 
 ## Cantidad total de merges
 
@@ -31,4 +31,7 @@ Comando: git log --oneline --stat | grep -E "files? changed" | sort -rn | head -
 
 Resultado: 3 archivos modificados, 147 inserciones
 
+## Hash de Commit de conflicto
+
 Hash del commit: e1a1272
+![Captura del commit de conflicto](https://i.imgur.com/9n7sXoV.png)
